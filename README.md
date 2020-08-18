@@ -1,2 +1,2 @@
-# Hello Word
+# Hello World
 this is going great repository
