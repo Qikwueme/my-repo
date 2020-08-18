@@ -1,2 +1,2 @@
-# my-repo
+# Hello Word
 this is going great repository
